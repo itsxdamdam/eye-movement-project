@@ -83,4 +83,18 @@
       </div>
     </footer>
   </body>
+
+  <script>
+    const svg = document.querySelector("#svg");
+    const createSVGPoint = new DOMPoint()
+    
+    const leftEye = createEye("#left-eye");
+    const rightEye = createEye("#right-eye");
+
+    let requestId = null;
+
+    window.addEventListener("mousemove", onMouseMove);
+
+    
+  </script>
 </html>
