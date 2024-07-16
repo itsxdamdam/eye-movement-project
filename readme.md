@@ -6,4 +6,5 @@ This was originally created by https://github.com/Broseey
 
 - Upcoming:
 - Implement eye movement,
-- Implement hover animations on background text
+- ~~Implement hover animations on background text~~
+- add time to footer under location
